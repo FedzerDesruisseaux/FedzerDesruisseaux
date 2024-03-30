@@ -1,7 +1,7 @@
 - 👋 olá! Eu sou Fedzer Desruisseaux
 - 👀 Estou Interessado o Desenvolvedor Full Stack
 - 🌱 Atualamente Estou Aprendendo Análise desenvolvimento de sistema  
-- 💞️ Estou Procurando colaborar em Java, JavaScript,C,C++,HTML,CSS,Node.js,
+- 💞️ Estou Procurando colaborar em Java, JavaScript,C,C++,HTML,CSS,Node.js.....
 - 📫 COmo Chegar Até Mim :marieyolene099@gmail.com
 
 <!---
