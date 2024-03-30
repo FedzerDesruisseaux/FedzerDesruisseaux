@@ -2,7 +2,7 @@
 - 👀 Estou Interessado o Desenvolvedor Full Stack
 - 🌱 Atualamente Estou Aprendendo Análise desenvolvimento de sistema  
 - 💞️ Estou Procurando colaborar em Java, JavaScript,C,C++,HTML,CSS,Node.js.....
-- 📫 COmo Chegar Até Mim :marieyolene099@gmail.com
+- 📫 Como Chegar Até Mim :marieyolene099@gmail.com
 
 <!---
 FedzerDesruisseaux/FedzerDesruisseaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
