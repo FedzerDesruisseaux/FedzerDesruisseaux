@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FedzerDesruisseaux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 olá! Eu sou Fedzer Desruisseaux
+- 👀 Estou Interessado o Desenvolvedor Full Stack
+- 🌱 Atualamente Estou Aprendendo Análise desenvolvimento de sistema  
+- 💞️ Estou Procurando colaborar em Java, JavaScript,C,C++,HTML,CSS,Node.js,
+- 📫 COmo Chegar Até Mim :marieyolene099@gmail.com
 
 <!---
 FedzerDesruisseaux/FedzerDesruisseaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
